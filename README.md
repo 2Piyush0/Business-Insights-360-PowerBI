@@ -53,11 +53,6 @@ Manufacturing / Consumer Electronics
 
 ---
 
-### 🎯 Forecast Accuracy View
-![Forecast Accuracy](screenshots/07_forecast_accuracy.png)
-
----
-
 ### 🧩 Data Model
 ![Data Model](screenshots/08_data_model.png)
 
@@ -89,13 +84,6 @@ Manufacturing / Consumer Electronics
 
 ---
 
-## 🔗 Power BI File
-Due to file size limitations, the Power BI (.pbix) file is hosted externally.
-
-👉 **PBIX Download:** *To be added*
-
----
-
 ## 🌐 Portfolio
 👉 **Portfolio Website:** *To be added*
 
@@ -113,8 +101,8 @@ Due to file size limitations, the Power BI (.pbix) file is hosted externally.
 **Piyush Sonawane**  
 Data Analyst | Power BI | SQL | Python  
 
-🔗 LinkedIn: *To be added*  
-🔗 GitHub: https://github.com/your-username
+🔗 LinkedIn: https://www.linkedin.com/in/piyush-sonawane-005422257/  
+🔗 GitHub: https://github.com/2Piyush0
 
 ---
 
