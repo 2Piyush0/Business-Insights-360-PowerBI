@@ -103,6 +103,7 @@ Data Analyst | Power BI | SQL | Python
 
 🔗 LinkedIn: https://www.linkedin.com/in/piyush-sonawane-005422257/  
 🔗 GitHub: https://github.com/2Piyush0
+🔗 Portfolio: https://codebasics.io/portfolio/Piyush-Sonawane
 
 ---
 
